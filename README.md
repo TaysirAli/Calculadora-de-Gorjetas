@@ -42,7 +42,7 @@ python main.py
 
 🐍 Python 3.x
 
-Conceitos Praticados
+## Conceitos Praticados
 
 Estrutura de funções com def
 
