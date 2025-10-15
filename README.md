@@ -1,28 +1,22 @@
-💰 Calculadora de Gorjeta (Python)
+# 💰 Calculadora de Gorjeta (Python)
+Uma aplicação simples em **Python** que calcula o valor da gorjeta e o total da conta com base em uma porcentagem informada pelo usuário. O projeto foi desenvolvido com o objetivo de praticar **funções**, **tratamento de exceções**, **modularização** e **entrada de dados**.
 
-Uma aplicação simples em Python que calcula o valor da gorjeta e o total da conta com base em uma porcentagem informada pelo usuário. O projeto foi desenvolvido com o objetivo de praticar funções, tratamento de exceções, modularização e entrada de dados.
+---
 
-🧠 Funcionalidades
+## 🧠 Funcionalidades
+- Exibe um menu formatado com uma borda de `*`.
+- Recebe o valor da conta e a porcentagem da gorjeta.
+- Calcula automaticamente:
+  - 💸 O valor da gorjeta.
+  - 🧾 O total da conta (valor da conta + gorjeta).
+- Trata erros de entrada (caso o usuário digite algo inválido).
+- Código modular dividido em:
+  - `main.py` → fluxo principal do programa.
+  - `Funções.py` → funções auxiliares de cálculo.
 
-Exibe um menu formatado com uma borda de *.
+---
 
-Recebe o valor da conta e a porcentagem da gorjeta.
-
-Calcula automaticamente:
-
-💸 O valor da gorjeta.
-
-🧾 O total da conta (valor da conta + gorjeta).
-
-Trata erros de entrada (caso o usuário digite algo inválido).
-
-Código modular dividido em:
-
-main.py → fluxo principal do programa.
-
-Funcoes.py → funções auxiliares de cálculo.
-
-⚙️ Estrutura do Projeto
+## ⚙️ Estrutura do Projeto
 CalculadoraGorjeta/
 │
 ├── Funcoes.py
