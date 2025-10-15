@@ -38,7 +38,7 @@ Execute o programa:
 
 python main.py
 
-##🧰 Tecnologias Utilizadas
+## 🧰 Tecnologias Utilizadas
 
 🐍 Python 3.x
 
